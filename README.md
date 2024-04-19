@@ -1,6 +1,6 @@
 ### Hi there, I'm Fabia Camile, a data scientist with a background in biomedical science.
 
-🔬 Analyzing medical equipment was the first step in my journey into data science, and it sparked my interest in statistics and programming.
+🔬 Analyzing medical devices was the first step in my journey into data science, and it sparked my interest in statistics and programming.
 
 📚 I've been dedicating my time learning and practicing problem-solving, mostly with Python. 
 
